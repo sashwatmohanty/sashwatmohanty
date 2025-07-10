@@ -1,23 +1,42 @@
-# 👋 Hello! Welcome to Sashwat Mohanty's GitHub Profile!
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFEE&lines=Hello+There!+Welcome+to+Sashwat+Mohanty's+GitHub" />
+</p>
 
-I'm a passionate developer, learner, and builder.  
-Here you'll find my personal projects, open source contributions, and experiments.  
-Feel free to explore and connect!
+<h1 align="center">Hi 👋, I'm Sashwat Mohanty</h1>
+<p align="center">
+  🔭 I’m passionate about building things with code<br>
+  🌱 I’m currently exploring full-stack development<br>
+  💬 Ask me about JavaScript, Python, or APIs<br>
+  📫 Reach me at: sashwat.dev@gmail.com<br>
+</p>
 
-🚀 Let's build something awesome!
+---
 
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mongodb,git,github" />
+</p>
 
-<!--
-**sashwatmohanty/sashwatmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sashwatmohanty&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sashwatmohanty&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/sashwatmohanty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:sashwat.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🔥 Visitor Count
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sashwatmohanty&label=Profile+Views&color=blue&style=flat" />
+</p>
