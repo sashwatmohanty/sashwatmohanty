@@ -56,20 +56,6 @@
 
 ---
 
-## 🐘 Elephant Energy Zone
-
-<h4 align="center">Instead of a snake game... I run on Elephant Energy 🐘⚡</h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Marven-AI/elephant-animation/main/elephant-walk.gif" alt="Elephant Walk" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Powered%20by-%F0%9F%90%98+Elephant+Energy-ff69b4" />
-</p>
-
----
-
 ## 💬 Quote of the Day
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
