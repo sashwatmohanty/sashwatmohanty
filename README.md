@@ -1,6 +1,6 @@
 <!-- Welcome Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+Sashwat+Mohanty's+GitHub!;I+love+building+cool+tech+stuff!;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+Sashwat+Mohanty's+GitHub!;Java+%7C+Python+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+ReactJS+%7C+JSP+%7C+Servlets;Explore+Projects%2C+Skills%2C+and+Resume+Below+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -15,9 +15,14 @@
 
 ---
 
+## 📄 My Resume
+📌 [Click to View My Resume](https://github.com/sashwatmohanty/sashwatmohanty/blob/main/ss-m-resume.pdf)
+
+---
+
 ## 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,nodejs,mongodb,git,github" />
 </p>
 
 ---
@@ -42,9 +47,6 @@
   <a href="mailto:sashwat.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://sashwatportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -59,7 +61,3 @@
 ## 💬 Quote of the Day
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
----
-
-## 🔥 Projects & Experiments (Optional)
-<!-- Add links to your best repos or pin them on your GitHub -->
