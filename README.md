@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hello! Welcome to Sashwat Mohanty's GitHub Profile!
+
+I'm a passionate developer, learner, and builder.  
+Here you'll find my personal projects, open source contributions, and experiments.  
+Feel free to explore and connect!
+
+🚀 Let's build something awesome!
+
 
 <!--
 **sashwatmohanty/sashwatmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
