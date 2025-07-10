@@ -66,15 +66,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sashwatmohanty&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sashwatmohanty&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sashwatmohanty&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sashwatmohanty&theme=tokyonight" />
 </p>
 
----
-
-## 🌐 Graph of the Future – Contributions Over Time
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sashwatmohanty&theme=react-dark&bg_color=00000000&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sashwatmohanty&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
