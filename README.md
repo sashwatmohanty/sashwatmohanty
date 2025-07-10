@@ -15,14 +15,14 @@
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sashwatmohanty&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sashwatmohanty&theme=radical" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sashwatmohanty" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -49,18 +49,31 @@
 
 ---
 
-### 🧮 Profile Visitors
+## 👁️ Profile Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sashwatmohanty&label=Profile+Views&color=brightgreen" />
 </p>
 
 ---
 
-### 💬 Quote of the Day
+## 🐘 Elephant Energy Zone
+
+<h4 align="center">Instead of a snake game... I run on Elephant Energy 🐘⚡</h4>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marven-AI/elephant-animation/main/elephant-walk.gif" alt="Elephant Walk" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20by-%F0%9F%90%98+Elephant+Energy-ff69b4" />
+</p>
+
+---
+
+## 💬 Quote of the Day
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
 ---
 
-### 🚀 Featured Projects *(Optional Section)*
-```markdown
-<!-- Just add links to repos here later -->
+## 🔥 Projects & Experiments (Optional)
+<!-- Add links to your best repos or pin them on your GitHub -->
